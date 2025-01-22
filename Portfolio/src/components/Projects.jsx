@@ -25,7 +25,7 @@ const projectsData = [
     description: 'Created a personal portfolio website to showcase my skills, projects, and achievements with a clean and responsive design.💼✨',
     technologies: ['HTML','CSS','React'],
     // demoLink: 'https://example.com/project3',
-    codeLink: 'https://github.com/username/project3'
+    codeLink: 'https://github.com/KumarGosala24/my-portfolio'
   }
 ];
 
